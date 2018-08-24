@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/DataGarage/node-xml-json",
   "dependencies": {
-    "xlsx": "0.7.6-g",
+    "xlsx": "*",
     "csv": "~0.3.6",
     "excel-stream": "^1.1.1"
   },
